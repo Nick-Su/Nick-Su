@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nick-Su
 - 👀 I’m interested in frontend & backend web development.
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me: write me an email on nick-su26@mail.ru
+- 📫 How to reach me: write me an email on nick.su.thedev@gmail.com
 
 <!---
 Nick-Su/Nick-Su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
